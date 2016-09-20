@@ -20,7 +20,7 @@ module.exports = [
     devDependencies: [
       "babel-cli",
       "babel-eslint",
-      "babel-plugin-transform-runtime"
+      "babel-plugin-transform-runtime",
       "babel-preset-es2015",
       "babel-preset-es2016",
       "babel-preset-es2017",
