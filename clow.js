@@ -27,12 +27,10 @@ module.exports = [
       "babel-preset-stage-3",
       "babel-register",
       "eslint",
-      "eslint-config-airbnb",
+      "eslint-config-airbnb-base",
       "eslint-plugin-async-await",
       "eslint-plugin-babel",
       "eslint-plugin-import",
-      "eslint-plugin-jsx-a11y",
-      "eslint-plugin-react",
       "mocha"
     ]
   },
