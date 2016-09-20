@@ -32,7 +32,8 @@ module.exports = [
       "eslint-plugin-async-await",
       "eslint-plugin-babel",
       "eslint-plugin-import",
-      "mocha"
+      "mocha",
+      "rimraf"
     ]
   },
   {
