@@ -1,6 +1,6 @@
 {
   "name": "@airtoxin/clow-template-babel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "clow template of babel project",
   "main": "clow.js",
   "scripts": {
