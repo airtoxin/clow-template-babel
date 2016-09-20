@@ -1,0 +1,20 @@
+{
+  "name": "@airtoxin/clow-template-babel",
+  "version": "0.0.1",
+  "description": "clow template of babel project",
+  "main": "clow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airtoxin/clow-template-babel.git"
+  },
+  "keywords": [],
+  "author": "airtoxin <airtoxin@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airtoxin/clow-template-babel/issues"
+  },
+  "homepage": "https://github.com/airtoxin/clow-template-babel#readme"
+}
