@@ -15,11 +15,12 @@ module.exports = [
   {
     type: "npm-install",
     dependencies: [
-      "babel-polyfill"
+      "babel-runtime"
     ],
     devDependencies: [
       "babel-cli",
       "babel-eslint",
+      "babel-plugin-transform-runtime"
       "babel-preset-es2015",
       "babel-preset-es2016",
       "babel-preset-es2017",
