@@ -28,6 +28,8 @@ module.exports = [
       "babel-preset-stage-3",
       "babel-register",
       "eslint",
+      "eslint-plugin-async-await",
+      "eslint-plugin-babel",
       "mocha",
       "rimraf"
     ]
